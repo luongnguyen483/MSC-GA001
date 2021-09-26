@@ -1,0 +1,11 @@
+leds.c:14:6:UpdateLEDoutputs	24	static
+leds.c:23:6:LedTimeToggle	24	static
+leds.c:31:6:AllLEDsOff	16	static
+leds.c:36:6:TurnLEDon	16	static
+leds.c:41:6:TurnLEDoff	16	static
+leds.c:46:15:LEDisON	24	static
+leds.c:50:6:ToggleLEDstate	16	static
+leds.c:66:6:SetLEDstate	16	static
+leds.c:73:6:ESlowFlashLED	16	static
+leds.c:79:6:FlashLED	16	static
+leds.c:85:6:FastFlashLED	24	static

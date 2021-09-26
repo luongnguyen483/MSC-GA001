@@ -1,0 +1,14 @@
+keypad_display.c:46:6:MainScreenEnter	0	static
+keypad_display.c:57:6:OutputControlScreenEsc	0	static
+keypad_display.c:62:6:OutputControlScreenEnter	0	static
+keypad_display.c:65:6:OutputControlScreenRight	0	static
+keypad_display.c:69:6:OutputControlScreenLeft	0	static
+keypad_display.c:73:6:OutputControlScreenUp	0	static
+keypad_display.c:77:6:OutputControlScreenDown	0	static
+keypad_display.c:108:6:MenuScreenEsc	0	static
+keypad_display.c:112:6:MenuScreenEnter	0	static
+keypad_display.c:118:6:MenuScreenUp	0	static
+keypad_display.c:122:6:MenuScreenDown	0	static
+keypad_display.c:132:6:AboutScreenEsc	0	static
+keypad_display.c:91:6:OutputControlScreenState	0	static
+keypad_display.c:142:6:doDisplay	16	static
